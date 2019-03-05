@@ -1,0 +1,10 @@
+
+{
+    "name": "com.dtstack.chrome.demo",
+    "description": "Chrome Native Messaging API Example Host",
+    "path": "/Users/charlesyang/space/workspace/team/ko-crt/script/hello.sh",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://fndijacmgfpgicgknoceclheehanolhc/"
+    ]
+  }
